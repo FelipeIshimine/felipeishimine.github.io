@@ -1,5 +1,5 @@
 ---
-title: Laugh Little Lamb (Web-PC-2024)
+title: Laugh Little Lamb (Web/PC)
 date: 2024-02-02 18:10:00 -0300
 categories: [games]
 tags: [game_jam, portfolio]
@@ -11,19 +11,18 @@ media_subpath: /assets/gifs/LaughLittleLamb.gif
 image:
   path: /assets/gifs/LaughLittleLamb.gif
   alt: Laugh Little Lamb gameplay
-game_link: https://kodachigames.itch.io/laughlittlelamb
 ---
 
-# [PLAY HERE](page.game_link)
+# [PLAY HERE](https://kodachigames.itch.io/laughlittlelamb)
 
-# Roles
-Programming and Game Design 
 
-# Game 
+# Description 
 Game for the Global Game Jam 2024 with the Theme "Make me Laught" in 48hs. 
 With this theme we made a puzzle game where you play as a little Lamb, that must reach their home in the middle of the night while 
 being chased by hungry laughinb hienas 
 
+## My Roles
+Programming and Game Design 
 
 ## Core Objectives 
 
