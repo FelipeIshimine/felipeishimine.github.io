@@ -1,7 +1,7 @@
 ---
 title: Ironmouse and Bubi's Wicked Climb! (Mobile/PC/Web)
 date: 2024-09-05 18:10:00 -0300
-categories: [games]
+categories: [my_games]
 tags: [gamejam, portfolio]
 author: <felipe_ishimine>
 description: Ironmouse and Bubi work together to climb through seven levels that commemorate Ironmouse's 7 years streaming anniversary.

@@ -1,7 +1,7 @@
 ---
 title: Find Them All! (Android)
 date: 2022-10-20 18:10:00 -0300
-categories: [games]
+categories: [work_games]
 tags: [mobile, portfolio]
 author: <felipe_ishimine>
 description: Game Ever mobile game 

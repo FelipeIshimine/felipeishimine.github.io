@@ -1,7 +1,7 @@
 ---
 title: Exceptions (Android/Web)
 date: 2019-06-08 18:10:00 -0300
-categories: [games]
+categories: [work_games]
 tags: [game, work, avix, portfolio]
 author: <felipe_ishimine>
 description: Find the difference game

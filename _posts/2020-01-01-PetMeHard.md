@@ -1,7 +1,7 @@
 ---
 title: Pet Me Hard! (Mobile)
 date: 2022-01-01 18:10:00 -0300
-categories: [games]
+categories: [work_games]
 tags: [game, work, portfolio]
 author: <felipe_ishimine>
 description: Guitar Hero style rythm game. Includes unlockable songs, and customizable cats.

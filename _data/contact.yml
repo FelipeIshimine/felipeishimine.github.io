@@ -10,9 +10,11 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -38,3 +40,13 @@
 # - type: threads
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
+- type: Cults3D
+  icon: 'fa-solid fa-cube' 
+  url: 'https://cults3d.com/en/users/felipeishimine/3d-models' 
+
+
+- type: ArtStation
+  icon: 'fa-brands fa-artstation' 
+  url: 'https://www.artstation.com/felipeishimine' 
+
+  

@@ -1,7 +1,7 @@
 ---
 title: Super Bownz! (Web/Mobile)
 date: 2024-12-16 18:10:00 -0300
-categories: [games]
+categories: [my_games]
 tags: [game, portfolio]
 author: <felipe_ishimine>
 description: Super Bownz is all about quick reflexes and precision! Draw platforms with a swipe, bounce your adorable ball to catch stars, and rack up points.
@@ -10,9 +10,9 @@ comments: false
 image:
   path: /assets/gifs/super-bownz.gif
   alt: gameplay  
-media_subpath: /assets/gifs/super-bownz.gif
 ---
 
+![Gameplay](/assets/gifs/super-bownz-gameplay.gif){: .right}
 
 # [PLAY HERE](https://kodachigames.itch.io/bownz)
 

@@ -1,7 +1,7 @@
 ---
 title: Battle Ball (Mobile)
 date: 2022-09-12 18:10:00 -0300
-categories: [games]
+categories: [work_games]
 tags: [work, games, mobile, portfolio]
 author: <felipe_ishimine>
 description: Side Scroll Action

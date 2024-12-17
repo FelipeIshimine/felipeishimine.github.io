@@ -1,7 +1,7 @@
 ---
 title: Laugh Little Lamb (Web/PC)
 date: 2024-02-02 18:10:00 -0300
-categories: [games]
+categories: [my_games]
 tags: [game_jam, portfolio]
 author: <felipe_ishimine>
 description: Game for the GGJ2024, with the theme, "Make Me Laught"

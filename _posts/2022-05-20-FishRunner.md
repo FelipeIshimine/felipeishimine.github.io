@@ -1,7 +1,7 @@
 ---
 title: FishRunner (Mobile)
 date: 2022-05-20 18:10:00 -0300
-categories: [games]
+categories: [work_games]
 tags: [work, games, portfolio]
 author: <felipe_ishimine>
 description: Narrative Runner Mobile where you control a School of fish that shapeshift
@@ -16,3 +16,7 @@ image:
 ![Gameplay](/assets/gifs/FishRunner.gif){: .right}
 
 # [PLAY HERE](https://play.google.com/store/apps/details?id=com.gameever.fishrunner)
+
+
+## My Role
+Programmer

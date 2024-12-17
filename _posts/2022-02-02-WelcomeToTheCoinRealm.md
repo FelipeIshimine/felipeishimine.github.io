@@ -1,7 +1,7 @@
 ---
 title: Welcome to the Coin Realm! (PC)
 date: 2022-02-02 18:10:00 -0300
-categories: [games]
+categories: [my_games]
 tags: [game_jam, portfolio]
 author: <felipe_ishimine>
 description: Game for the GMTK-2022 Jam with the theme Duality  
