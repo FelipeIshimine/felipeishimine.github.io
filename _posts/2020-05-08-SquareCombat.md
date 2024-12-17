@@ -14,6 +14,7 @@ image:
 
 ![Gameplay](/assets/gifs/SquareCombat.gif){: .right}
 
+
 # Description
 Submission to AirConsole GameDev Contest 2020
 Local Competitive Multiplayer up to 4 players using AirConsole.
