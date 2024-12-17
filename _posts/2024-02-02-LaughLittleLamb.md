@@ -7,7 +7,6 @@ author: <felipe_ishimine>
 description: Game for the GGJ2024, with the theme, "Make Me Laught"
 toc: false
 comments: false
-media_subpath: /assets/gifs/LaughLittleLamb.gif
 image:
   path: /assets/gifs/LaughLittleLamb.gif
   alt: Laugh Little Lamb gameplay

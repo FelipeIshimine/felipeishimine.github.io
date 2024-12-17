@@ -10,7 +10,6 @@ comments: false
 image:
   path: /assets/gifs/PetMeHard.gif
   alt: gameplay  
-media_subpath: /assets/gifs/PetMeHard.gif
 ---
 
 

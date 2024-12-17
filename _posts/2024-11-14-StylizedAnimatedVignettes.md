@@ -10,7 +10,6 @@ comments: false
 image:
   path: /assets/images/stylized-vignettes.jpg
   alt: gameplay  
-media_subpath: /assets/images/stylized-vignettes.jpg
 ---
 
 

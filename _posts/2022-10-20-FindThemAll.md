@@ -10,7 +10,6 @@ comments: false
 image:
   path: /assets/gifs/FindThemAll.gif
   alt: gameplay  
-media_subpath: /assets/gifs/FindThemAll.gif
 ---
 
 

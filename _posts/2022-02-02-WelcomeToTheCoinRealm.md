@@ -10,7 +10,6 @@ comments: false
 image:
   path: /assets/gifs/CoinRealm.gif
   alt: gameplay  
-media_subpath: /assets/gifs/CoinRealm.gif
 ---
 
 

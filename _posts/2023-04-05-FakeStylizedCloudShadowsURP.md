@@ -10,5 +10,4 @@ comments: false
 image:
   path: /assets/gifs/FakeCloudShadows.gif
   alt: gameplay  
-media_subpath: /assets/gifs/FakeCloudShadows.gif
 ---

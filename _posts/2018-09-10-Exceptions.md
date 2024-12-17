@@ -10,7 +10,6 @@ comments: false
 image:
   path: /assets/gifs/Exceptions.gif
   alt: gameplay  
-media_subpath: /assets/gifs/Exceptions.gif
 ---
 
 # [PLAY (ANDROID)](https://play.google.com/store/apps/details?id=tv.avix.exceptions)
