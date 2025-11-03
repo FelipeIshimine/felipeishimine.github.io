@@ -1,5 +1,5 @@
 ---
-title: Grass Cutter (Web)
+title: Grass Cutter (POKI WEB)
 date: 2025-06-04 18:10:00 -0300
 categories: [my_games]
 tags: [game, work, portfolio, poki]
@@ -9,7 +9,6 @@ toc: false
 comments: false
 image:
   path: /assets/images/cutting-grass-wide.png
-  alt: gameplay  
 ---
 
 [![Play on Poki](assets/images/poki-badge_dark.png)](https://poki.com/en/g/grass-cutter)
