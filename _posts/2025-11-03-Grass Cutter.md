@@ -8,7 +8,7 @@ description: Grab your scissors and start mowing today!
 toc: false
 comments: false
 image:
-  path: /assets/images/grass-cutter-wide.png
+  path: /assets/images/cutting-grass-wide.png
   alt: gameplay  
 ---
 
