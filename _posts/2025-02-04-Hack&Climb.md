@@ -1,5 +1,5 @@
 ---
-title: Hack&Climb (Windows, Web)
+title: Hack&Climb - Game Jam (Windows, Web)
 date: 2025-02-04 18:10:00 -0300
 categories: [my_games]
 tags: [game, work, portfolio, gamejam]
@@ -12,7 +12,7 @@ image:
   alt: gameplay  
 ---
 
-{% include embed/youtube.html id='AkRbx2HTYVc' %}
+{% include embed/youtube.html id='heEDoxqjPcM' %}
 
 # [Play Here](https://kodachigames.itch.io/hack-and-climb)
 
@@ -22,3 +22,4 @@ Entry for the Pirate Jam 16 with the theme "You are the weapon".
 
 ## Roles
 Programmer, Game Designer, Level Designer, SFX Artist, VFX Artist
+
