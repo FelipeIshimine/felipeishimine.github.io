@@ -8,7 +8,7 @@ description: Arcade game. Swipe, Bounce, Score!
 toc: false
 comments: false
 image:
-  path: /assets/gifs/hack&climb.gif
+  path: /assets/gifs/hack-and-climb.gif
   alt: gameplay  
 ---
 
