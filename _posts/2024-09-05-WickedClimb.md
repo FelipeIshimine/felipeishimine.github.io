@@ -15,11 +15,12 @@ image:
 
 ![Gameplay](/assets/gifs/wicked-climb-gameplay.gif){: .right}
 
-# [PLAY HERE](https://kodachigames.itch.io/wicked-climb)
+> **[▶ Play on itch.io](https://kodachigames.itch.io/wicked-climb)**
+{: .prompt-tip}
 
+## Description
 
-# Description 
-Jump King inspired game, where you can jump and throw a hook midair to climb to the top.
+Jump King-inspired precision platformer made in collaboration with the VTuber **Ironmouse** to celebrate her 7-year streaming anniversary. Players jump and throw a grappling hook mid-air to climb through seven handcrafted levels, each themed around a milestone in her streaming career.
 
-## My Roles
+## Roles
 Programmer, Level Designer, Game Designer

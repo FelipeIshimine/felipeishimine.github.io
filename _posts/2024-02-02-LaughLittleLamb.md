@@ -12,7 +12,8 @@ image:
   alt: Laugh Little Lamb gameplay
 ---
 
-# [PLAY HERE](https://kodachigames.itch.io/laughlittlelamb)
+> **[▶ Play on itch.io](https://kodachigames.itch.io/laughlittlelamb)** · **[View Source on GitHub](https://github.com/FelipeIshimine/Laugh-Little-Lamb)**
+{: .prompt-tip}
 
 
 # Description 
@@ -61,8 +62,6 @@ On the other hand, I personally, wanted to share an example of how some of this 
 
 
 
-Free access to the repo
-https://github.com/FelipeIshimine/Laugh-Little-Lamb
 
 
 

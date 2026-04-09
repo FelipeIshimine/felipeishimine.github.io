@@ -13,11 +13,15 @@ image:
 ---
 
 
-[Asset Store](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/stylized-animated-vignettes-300568)
+> **[▶ Unity Asset Store](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/stylized-animated-vignettes-300568)**
+{: .prompt-tip}
 
-# Effect Showcase
+## Effect Showcase
+
 {% include embed/youtube.html id='QzYcPgPoInY' %}
 
+## Description
 
-# Description
-Unity Package for rendering Stylized Animated Vignettes using Volumes in URP
+Unity URP package for rendering stylized animated vignettes using the Volume system. Drop it into any URP project and control it through a Volume Profile like any other post-process effect.
+
+Designed for games that want expressive, art-directed screen effects without writing custom shaders from scratch.

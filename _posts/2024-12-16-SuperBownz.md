@@ -14,10 +14,11 @@ image:
 
 ![Gameplay](/assets/gifs/super-bownz-gameplay.gif){: .right}
 
-# [PLAY HERE](https://kodachigames.itch.io/bownz)
+> **[▶ Play on itch.io](https://kodachigames.itch.io/bownz)**
+{: .prompt-tip}
 
-# Description
-Cute arcade game for Web and Mobile.
-Remake of one of my first games. Simple concept, you draw platforms make the ball bounce, and collect stars. Buy new skins repeat.
+## Description
 
-Just wanted to revive this game because original versions where not available anymore
+Cute arcade game for Web and Mobile — a remake of one of my first ever games. Draw platforms with a swipe, make the ball bounce, collect stars, buy skins, repeat.
+
+A personal project to revive a game I made years ago that was no longer available anywhere. Kept the spirit of the original but rebuilt it cleanly from scratch.

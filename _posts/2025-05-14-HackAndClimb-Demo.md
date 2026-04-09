@@ -7,6 +7,7 @@ author: <felipe_ishimine>
 description: Escape the abyss, climb the mountain, take revenge! 
 toc: false
 comments: false
+pin: true
 image:
   path: /assets/images/HackAndClimb-Capsule.png
   alt: Steam Capsule  
@@ -15,27 +16,18 @@ image:
 {% include embed/youtube.html id='ztwjKXp_788' %}
 
 
-# [STEAM GAME](https://store.steampowered.com/app/3597060/Hack_And_Climb/)
+> **[▶ Steam Page](https://store.steampowered.com/app/3597060/Hack_And_Climb/)** · **[Free Demo](https://store.steampowered.com/app/3661310/Hack_And_Climb_Demo/)**
+{: .prompt-tip}
 
-# [Demo](https://store.steampowered.com/app/3661310/Hack_And_Climb_Demo/)
+## Description
 
+Physics-based Foddian platformer — throw, chop, and climb your way up through stunning untamed landscapes. Unlock new weapons as you go and master each one to conquer the climb.
 
-
-# Description
-Genre: Physics Foddian platformer. 
-
-Throw, chop, and climb your way up in this physics-based platformer! Unlock new weapons as you explore stunning, untamed landscapes. Master the axe. Conquer the climb. Are you up to the challenge?
-
-
-Started as an entry for the Pirate Jam 16 with the theme "You are the weapon".
-
-Expected release on Q4 2025 after October Steam Fest
-
+Originated as a game jam entry for **Pirate Jam 16** with the theme *"You are the weapon"*, then expanded into a full commercial release.
 
 ## Art Style
+
 {% include embed/youtube.html id='1AfBa2Xdj5Q' %}
-
-
 
 ## Roles
 Programmer, Game Designer, Level Designer, SFX Artist, VFX Artist

@@ -15,7 +15,12 @@ image:
 
 ![Gameplay](/assets/gifs/BattleBall.gif){: .right}
 
-# [PLAY HERE](https://play.google.com/store/apps/details?id=com.gameever.circleball)
+> **[▶ Play on Google Play](https://play.google.com/store/apps/details?id=com.gameever.circleball)**
+{: .prompt-tip}
+
+## Description
+
+Side-scrolling mobile action game. Players control a ball through increasingly difficult obstacle courses, timing jumps and attacks to survive.
 
 ## My Role
 Programmer

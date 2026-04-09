@@ -29,9 +29,17 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 #
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/felipe-ishimine/'
+
+- type: itchio
+  icon: 'fa-brands fa-itch-io'
+  url: 'https://felipeishimine.itch.io/'
+
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://felipeishimine.bsky.social/'                   # Fill with your Bluesky profile link
+  url: 'https://felipeishimine.bsky.social/'
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
